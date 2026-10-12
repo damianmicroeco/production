@@ -12,3 +12,5 @@ uv.lock
 production-env
 .venv
 .claude/*
+lab_data/*
+05_src/data/prices_csv/stocks/*
